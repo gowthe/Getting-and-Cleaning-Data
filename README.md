@@ -12,7 +12,7 @@ Y_train.txt<br/>
 subject_test.txt<br/>
 subject_train.txt<br/>
 
-The R script used for analysis is run_analysis.R 
+The R script used for analysis is [run_analysis.R](https://github.com/gowthe/Getting-and-Cleaning-Data/blob/master/run_analysis.R)
 
 The output is exported as a table which can be read back to R using read.table()
 
