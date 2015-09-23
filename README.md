@@ -16,4 +16,4 @@ The R script used for analysis is [run_analysis.R](https://github.com/gowthe/Get
 
 The output is exported as a table which can be read back to R using read.table()
 
-For more information, please have a look at the codebook
+For more information, please have a look at the [codebook](https://github.com/gowthe/Getting-and-Cleaning-Data/blob/master/Codebook.md)
